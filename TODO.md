@@ -1,1 +1,2 @@
-lists all the planned job for this repository
+lists all the planned jobs for this repository
+
